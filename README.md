@@ -2,7 +2,9 @@
 
 Customer Behavior Analysis in Megaline Mobile Provider
 
-The project assigned to me during the seventh sprint involves Introduction to Machine Learning. I dived into the fundamentals of machine learning, with an emphasis on the Scikit Learn library.
+The project assigned to me during the seventh sprint involves Introduction to Machine Learning. 
+
+Throughout this sprint, I dived into the fundamentals of machine learning, with an emphasis on the Scikit Learn library.
 
 # **Project Insight**
 
